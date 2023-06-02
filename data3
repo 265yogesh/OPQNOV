@@ -1,0 +1,14 @@
+Head --> To print only required lines
+
+head - 2 <filename> -- to display only first 2 lines
+head <file_name> -- to display starting 10 lines
+
+
+Tail --> to print last lines of the file
+
+tail -n <filename> -- to display last lines
+
+example: 
+
+tail -3 opqbootcamp
+
