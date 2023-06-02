@@ -1,0 +1,7 @@
+word count
+----------
+wc <filename> to check munber of lines,word and charaters
+wc -l <filename> to check only line number
+wc -c <filename> to check only character
+wc -w <filename> to check only word
+
